@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetansomkuwar254
+- 👋 Hi, I’m Chetan Somkuwar
 - 👀 I’m interested in Cloud/DevOps Techstack !!
 - 🌱 I’m currently Working With Cloud Based Projects & Dockerized Deployment.
 - 💞️ I’m looking to collaborate on Free Lancing work & Projects
